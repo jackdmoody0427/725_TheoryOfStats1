@@ -1,3 +1,4 @@
 - [Demystifying hypothesis testing with simple Python examples](https://towardsdatascience.com/demystifying-hypothesis-testing-with-simple-python-examples-4997ad3c5294)
 - [17 Statistical Hypothesis Tests in Python (Cheat Sheet)](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - [a short introduction to model selection](https://towardsdatascience.com/a-short-introduction-to-model-selection-bb1bb9c73376)
+- [guide to r2, adjusted r2, etc](https://towardsdatascience.com/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c)
