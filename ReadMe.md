@@ -3,3 +3,4 @@
 - [a short introduction to model selection](https://towardsdatascience.com/a-short-introduction-to-model-selection-bb1bb9c73376)
 - [guide to r2, adjusted r2, etc](https://towardsdatascience.com/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c)
 - [k fold cross validation in python](https://www.askpython.com/python/examples/k-fold-cross-validation)
+- [NHANES data help](https://wwwn.cdc.gov/nchs/nhanes/tutorials/samplecode.aspx)
